@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
+
+    // Sistem Manajemen Inventori & Perhitungan Diskon Otomatis
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
